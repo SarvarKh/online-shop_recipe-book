@@ -34,6 +34,7 @@ To get a local copy up and running follow these simple example steps.
     Step 4 - open the app in development mode:
     ng serve
 Last step, open http://localhost:4200/ to view it in the browser.
+If you have npm 7+ installed, it might be required to run npm install --legacy-peer-deps instead of npm install
 
 ## Authors
 
